@@ -26,7 +26,7 @@ SECRET_KEY = '(it!%5__2w0clzm2!*ag*kgzg!@%!*j%ztgb*w7v93k6-c)xpr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["thorole-todo-app.herokuapp.com"]
 
 
 # Application definition
